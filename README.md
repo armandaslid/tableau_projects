@@ -1,2 +1,2 @@
 # My Tableau Projects
-:link: Link: [Tableau](https://public.tableau.com/app/profile/armandas.lidzius/vizzes)
+:link: You can find my Tableau Public projects here: [My Tableau Projects](https://public.tableau.com/app/profile/armandas.lidzius/vizzes)
